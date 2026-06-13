@@ -3,7 +3,7 @@ import { Button } from "@heroui/react";
 const App = () => {
   return (
     <div>
-      <Button>My Button</Button>
+      <Button> Button</Button>
     </div>
   );
 };
